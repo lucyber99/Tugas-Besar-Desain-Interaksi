@@ -5,8 +5,7 @@
 
 ## Deskripsi Proyek  
 
-**MindMonitor** adalah sistem pemantauan kesehatan mental mahasiswa berbasis **smartwatch** yang terintegrasi dengan **kecerdasan buatan (AI)**.  
-Sistem ini merekam data fisiologis seperti **detak jantung**, **pola tidur**, dan **aktivitas fisik**, kemudian menggabungkannya dengan catatan emosional pengguna untuk memberikan **analisis personal**, **deteksi dini stres**, dan **rekomendasi perbaikan kondisi mental**.  
+**MindMonitor** adalah sistem pemantauan kesehatan mental mahasiswa berbasis **smartwatch** yang terintegrasi dengan **kecerdasan buatan (AI)**. Sistem ini merekam data fisiologis seperti **detak jantung**, **pola tidur**, dan **aktivitas fisik**, kemudian menggabungkannya dengan catatan emosional pengguna untuk memberikan **analisis personal**, **deteksi dini stres**, dan **rekomendasi perbaikan kondisi mental**.  
 
 Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Desain Interaksi** di **Institut Teknologi Sumatera (ITERA)** tahun 2025.
 

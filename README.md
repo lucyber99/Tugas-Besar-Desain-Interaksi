@@ -23,9 +23,7 @@ Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Desain Int
 ✅ Pemantauan real-time data fisiologis (HR, HRV, tidur, aktivitas).  
 ✅ Analisis kondisi mental menggunakan model kecerdasan buatan.  
 ✅ Dashboard visual interaktif untuk pengguna.  
-✅ Peringatan otomatis ketika stres terdeteksi tinggi.  
-✅ Sinkronisasi smartwatch dengan aplikasi mobile.  
-✅ (Opsional) Akses data anonim bagi konselor kampus.  
+✅ Peringatan otomatis ketika stres terdeteksi tinggi.   
 
 ---
 

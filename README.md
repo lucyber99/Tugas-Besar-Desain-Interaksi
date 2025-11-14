@@ -1,5 +1,5 @@
 # MindMonitor  
-### *System Monitoring Kesehatan Mental Mahasiswa Terintegrasi Melalui Smartwatch*  
+### *Prototype System Monitoring Kesehatan Mental Mahasiswa Melalui Smartwatch*  
 
 ---
 

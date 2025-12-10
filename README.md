@@ -59,15 +59,7 @@ MindMonitor dikembangkan dengan tiga pendekatan utama desain produk digital:
 - *Design Prototype:* Pembuatan wireframe, mockup, dan tampilan interaktif.  
 - *Build Interactive Version:* Implementasi sistem berbasis integrasi smartwatch.  
 - *Evaluate & Feedback:* Pengujian usability dengan feedback iteratif pengguna.  
-
-### 🔹 Double Diamond Framework  
-1. **Discover:** Eksplorasi masalah dan kebutuhan pengguna.  
-2. **Define:** Penentuan fitur penting dan alur interaksi.  
-3. **Develop:** Pembuatan prototype dan pengujian awal.  
-4. **Deliver:** Penyempurnaan desain hingga produk siap diuji pengguna.  
-
-### 🔹 Lean UX  
-Pendekatan *Think – Make – Check* untuk validasi cepat dan efisien berdasarkan hipotesis serta masukan pengguna.  
+ 
 
 ---
 
